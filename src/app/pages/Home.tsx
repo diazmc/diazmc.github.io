@@ -52,7 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Always difficult, always beautiful
+                Front-End Developer
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops
@@ -68,18 +68,37 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Stack direction="row" spacing={0.4}>
-                {links.map((link) => (
-                  <Tooltip key={link.index} title={link.title} arrow>
-                    <Link
-                      target="_blank"
-                      href={link.href}
-                      underline="none"
-                      color="inherit"
-                    >
-                      <IconButton color="inherit">{link.icon}</IconButton>
-                    </Link>
-                  </Tooltip>
-                ))}
+                {links.map((link) => {
+                  if(link.index === 3) {
+                    return (
+                      <Tooltip key={link.index} title={link.title} arrow>
+                      <Link
+                        target="_blank"
+                        href={link.href}
+                        underline="none"
+                        color="inherit"
+                        download='McArthur Diaz - Resume'
+                      >
+                        <IconButton color="inherit">{link.icon}</IconButton>
+                      </Link>
+                      </Tooltip>
+                    )
+                  }
+                  else {
+                    return (
+                      <Tooltip key={link.index} title={link.title} arrow>
+                        <Link
+                          target="_blank"
+                          href={link.href}
+                          underline="none"
+                          color="inherit"
+                        >
+                          <IconButton color="inherit">{link.icon}</IconButton>
+                        </Link>
+                      </Tooltip>
+                    )
+                  }
+                })}
               </Stack>
             </Grid>
           </Box>

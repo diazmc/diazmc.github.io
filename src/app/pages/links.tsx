@@ -1,6 +1,7 @@
 import {
   FaMedium,
   FaBlog,
+  FaFile,
   FaGithub,
   FaLinkedin,
   FaEnvelope,
@@ -10,7 +11,7 @@ export const links = [
   {
     index: 0,
     title: "Find me on Github",
-    href: "https://github.com/noworneverev",
+    href: "https://github.com/diazmc",
     icon: <FaGithub />,
   },
   {
@@ -22,19 +23,19 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "mailto:n9102125@gmail.com",
+    href: "mailto:mc.arthur_d@hotmail.com",
     icon: <FaEnvelope />,
   },
   {
     index: 3,
-    title: "Find me on Medium",
-    href: "https://medium.com/@noworneverev",
-    icon: <FaMedium />,
+    title: "Download my Resume",
+    href: "./resume/McArthur_Diaz-Resume.pdf",
+    icon: <FaFile />,
   },
-  {
-    index: 4,
-    title: "Find me on Blog",
-    href: "https://noworneverev.github.io/blog/",
-    icon: <FaBlog />,
-  },
+  // {
+  //   index: 4,
+  //   title: "Find me on Blog",
+  //   href: "https://noworneverev.github.io/blog/",
+  //   icon: <FaBlog />,
+  // },
 ];
