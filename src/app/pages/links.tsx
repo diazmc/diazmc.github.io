@@ -16,7 +16,7 @@ export const links = [
   {
     index: 1,
     title: "Find me on LinkedIn",
-    href: "https://www.linkedin.com/in/yan-ying-liao/",
+    href: "https://www.linkedin.com/in/mcarthur-diaz/",
     icon: <FaLinkedin />,
   },
   {
