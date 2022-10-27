@@ -1,2 +1,2 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- Full Stack Web Development (Coding Dojo)
