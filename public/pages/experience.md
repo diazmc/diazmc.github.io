@@ -10,7 +10,7 @@
 
 &nbsp;
 
-**Web Developer** @ [Intellectual Property Law Group, LLP](https://www.iplg.com/) _(April 2019 - Sep 2019, San Jose, CA)_
+**Web Developer** @ [Intellectual Property Law Group, LLP](https://wwww.iplg.com/) _(April 2019 - Sep 2019, San Jose, CA)_
 
 -	Full stack web developer responsible for end-to-end web app development.
 -	Designed and developed the law firm’s main website and their subsidiary’s website resulting in 20% increase in sales revenue.
