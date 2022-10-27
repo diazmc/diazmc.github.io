@@ -33,10 +33,10 @@ Currently looking for new opportunities where I can develop my professional care
 ## Skills
 
 ### Programming languages
-- JavaScript/TypeScripts
-- Python
+- JavaScript/TypeScript
 - HTML
 - CSS
+- Python
 - Java
 
 ### Frameworks/Libraries

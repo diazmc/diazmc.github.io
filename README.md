@@ -158,9 +158,9 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-McArthur Diaz - [Personal Portfolio](https://noworneverev.github.io/) - mc.arthur_d@hotmail.com
+McArthur Diaz - [Personal Portfolio](https://diazmc.github.io/) - mc.arthur_d@hotmail.com
 
-Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
+Project Link: [https://github.com/diazmc/react-portfolio](https://github.com/diazmc/react-portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
