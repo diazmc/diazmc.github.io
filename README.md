@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://noworneverev.github.io/)
+[![Product Name Screen Shot][product-screenshot]](https://diazmc.github.io/react-portfolio)
 
 The project is inspired by [Visual Studio Code](https://github.com/microsoft/vscode) and [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io). The pages of the portfolio are powered by `markdown`, which make them easy to modify or add your own contents.
 
@@ -87,7 +87,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/noworneverev/react-vscode-portfolio.git
+   git clone https://github.com/diazmc/react-portfolio.git
    ```
 2. Install NPM packages
    ```sh
