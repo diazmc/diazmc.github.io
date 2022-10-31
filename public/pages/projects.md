@@ -2,7 +2,7 @@
 
 ## [Factoria Orthodontics](https://www.factoriaortho.com/) 🔗
 
-![factoria image](screenshots/factoria-ortho.png)
+<!-- ![](./screenshots/factoria-ortho.png) -->
 
 ## [Owl Orthodontics](https://www.owlortho.com/) 🔗
 
@@ -17,3 +17,6 @@
 ## [Pip-Boy](https://diazmc.github.io/pipboy-app/) 🔗
 
 ## [Bakery](https://diazmc.github.io/bakery/) 🔗
+
+
+[factoria image]: ./screenshots/factoria-ortho.png
