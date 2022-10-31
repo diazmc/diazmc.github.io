@@ -1,7 +1,7 @@
 {
   "name": "react-vscode-portfolio",
   "version": "0.1.0",
-  "homepage": "https://diazmc.github.io/",
+  "homepage": "https://diazmc.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
