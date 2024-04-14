@@ -77,7 +77,7 @@ export default function Home({ setSelectedIndex }: Props) {
                         href={link.href}
                         underline="none"
                         color="inherit"
-                        download='McArthur Diaz - Resume'
+                        download='McArthur-Diaz-Resume'
                       >
                         <IconButton color="inherit">{link.icon}</IconButton>
                       </Link>

@@ -29,7 +29,7 @@ export const links = [
   {
     index: 3,
     title: "Download my Resume",
-    href: "./resume/McArthur_Diaz-Resume.pdf",
+    href: "./resume/McArthur-Diaz-Resume.pdf",
     icon: <FaFile />,
   },
   // {
